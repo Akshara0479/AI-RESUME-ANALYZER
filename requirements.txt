@@ -1,0 +1,6 @@
+flask
+pdfplumber
+requests
+werkzeug
+flask-jwt-extended
+python-dotenv
